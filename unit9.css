@@ -122,18 +122,23 @@ border: 1px solid black;
 }
 
 
-@media screen and (min-width: 250px) and (max-width: 1400px) {
+@media screen and (min-width: 250px) and (max-width: 1500px) {
 		
 	main p {
 	float: none;
 	width: auto;
 	font-size: .75em;
 	}
+	
 	nav li {
 	font-size: .75em;
+	float: none;
+	text-align: center;
+	padding: .67em;
 			}
+			
 	nav img {
-	width: 50%;
+	width: 25%;
 }
 	table {
 	font-size: .25em;
@@ -141,3 +146,17 @@ border: 1px solid black;
 	margin-right: none;
 	}
 	
+	#isaac p {
+	float: none;
+	width: 90%;
+	font-size: .75em;
+	padding: none;
+	}
+	
+	#ervin p {
+	float: none;
+	width: 90%;
+	font-size: .75em;
+	padding: none;
+	margin-left: 10%;
+	}
