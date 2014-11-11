@@ -134,7 +134,7 @@ border: 1px solid black;
 	font-size: .75em;
 	float: none;
 	text-align: center;
-	padding: .67em;
+	padding: .5em;
 			}
 			
 	nav img {
@@ -146,16 +146,16 @@ border: 1px solid black;
 	margin-right: none;
 	}
 	
-	#isaac p {
+	#isaac {
 	float: none;
-	width: 90%;
+	width: 80%;
 	font-size: .75em;
 	padding: none;
 	}
 	
-	#ervin p {
+	#ervin {
 	float: none;
-	width: 90%;
+	width: 80%;
 	font-size: .75em;
 	padding: none;
 	margin-left: 10%;
